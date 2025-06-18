@@ -7,7 +7,7 @@
 
 ## 🧠 A Bit About Me
 
-I enjoy exploring how software can improve everyday life — especially through small tools and personal projects.  
+I enjoy exploring how software can improve everyday life, especially through small tools and personal projects.  
 My focus is on writing clean, understandable code and continuously learning how to think like a better developer.
 
 📚 **Fun fact:** I really enjoy learning foreign languages, not just programming ones!
@@ -33,4 +33,4 @@ My focus is on writing clean, understandable code and continuously learning how 
 
 ## 🤝 Let's Connect
 
-Feel free to check out my repositories — I'm always happy to share, learn, and collaborate.
+Feel free to check out my repositories, I'm always happy to share, learn, and collaborate.
